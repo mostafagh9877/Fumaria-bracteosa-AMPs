@@ -1,4 +1,4 @@
-# Identification of antimicrobial peptides from *Fumaria bracteosa* using bioinformatics tools and *in vitro* evaluation of their antimicrobial activity against drug-resistant bacteria
+# Fumaria-bracteosa-AMPs
 
 
 MD simulation and gmx_MMPBSA input files for the interaction of antimicrobial peptides derived from *Fumaria bracteosa* with model membranes
