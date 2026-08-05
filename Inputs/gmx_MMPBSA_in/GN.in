@@ -1,0 +1,23 @@
+&general
+sys_name="GN",
+startframe=1,
+endframe=101,
+interval=1,
+PBRadii=7,
+temperature=323,
+/
+&pb
+indi=10, radiopt=0, istrng=0.150, fillratio=1.25, inp=1, use_sav=0, radiopt=0,
+sasopt=0, solvopt=2, ipb=1, bcopt=10, nfocus=1, linit=10000,
+eneopt=1, cutfd=7.0, cutnb=10.0,
+maxarcdot=5000,
+npbverb=1,
+/
+
+
+
+
+
+
+
+
